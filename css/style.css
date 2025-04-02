@@ -108,7 +108,7 @@ div.video.parallax{
 button.btn.btn-primary.btn-lg.btn-block {
     width: 508px;
     height: 120px;
-    background-color: darkorange;
+    background-color: red;
     font-size: 3.7em;
     color: ghostwhite;
 }
